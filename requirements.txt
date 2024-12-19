@@ -1,0 +1,6 @@
+pip install streamlit
+pip install pickle
+pip install numpy 
+pip install pandas
+pip install tensorflow 
+pip install streamlit-option-menu
